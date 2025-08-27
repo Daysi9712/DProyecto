@@ -1,3 +1,4 @@
 # Entorno virtual
-Dataset/onu_dataset
+Dataset/onu
+.venv/
 venv/
