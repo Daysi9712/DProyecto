@@ -3,4 +3,4 @@ pip install pandas
 pip install seaborn
 pip install tensorflow
 pip install matplotlib
-pip install pyshark
+pip install scapy
